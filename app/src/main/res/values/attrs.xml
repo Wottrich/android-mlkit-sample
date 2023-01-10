@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CircularFrameView">
+        <attr name="cfv_circleBackground" format="reference|color" />
+        <attr name="cfv_circleStroke" format="dimension" />
+        <attr name="cfv_circleStrokeColor" format="reference|color" />
+        <attr name="cfv_progressColor" format="reference|color" />
+        <attr name="cfv_progressStartAngle" format="float" />
+        <attr name="cfv_progressClockwise" format="boolean" />
+        <attr name="cfv_radiusRatio" format="float" />
+        <attr name="cfv_gradientEnabled" format="boolean" />
+    </declare-styleable>
+
+</resources>

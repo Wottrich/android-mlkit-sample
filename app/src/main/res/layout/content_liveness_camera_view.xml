@@ -1,0 +1,18 @@
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <github.io.wottrich.mlkit.frame.CircularFrameView
+        android:id="@+id/circularFrameView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#CCFFFFFF" />
+
+    <ImageView
+        android:id="@+id/feedbackImage"
+        android:layout_width="66dp"
+        android:layout_height="66dp"
+        android:scaleX="0"
+        android:scaleY="0" />
+
+</merge>

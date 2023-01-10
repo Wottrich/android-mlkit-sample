@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MlKitSample</string>
+
+    <string name="euler_movement_move_to_right">Mova a cabeça para direita</string>
+    <string name="euler_movement_move_to_left">Mova a cabeça para esquerda</string>
+    <string name="euler_movement_move_to_bottom">Mova a cabeça para baixo</string>
+    <string name="euler_movement_move_to_top">Mova a cabeça para cima</string>
+    <string name="euler_movement_all_movements_done">Todos os movimentos feitos!</string>
+    <string name="euler_movement_centralize_face">Centralize seu rosto no frame</string>
+</resources>
